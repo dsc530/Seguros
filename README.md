@@ -25,7 +25,7 @@ La compañía de seguros **Sure Tomorrow** busca aplicar técnicas de ciencia de
    - Cálculo del RMSE como métrica de error.
 
 5. **Análisis del Escalado**  
-   - Escalado de las variables numéricas con `StandardScaler`.  
+   - Escalado de las variables numéricas con `MaxAbsScaler`.  
    - Comparativa del error (RMSE) del modelo con y sin escalado de datos.
 
 ## 🧰 Requisitos del Entorno
